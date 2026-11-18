@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://banditrider.github.io/fischzucht-gletschbach/sitemap-index.xml
